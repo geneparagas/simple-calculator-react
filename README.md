@@ -1,4 +1,4 @@
-## Part 2 Simple Calculator
+## Simple Calculator
 
 A simple calculator built with React, featuring modular CSS, global state management, and accessibility support.
 
